@@ -1,7 +1,9 @@
 <img src="https://pbs.twimg.com/profile_banners/2443763582/1520457109/1500x500" alt="gaziadib" />
 <h1 align="center">Hi 👋, I'm <b>Gazi Monirul Islam (Adib)</b></h1>
 <h3 align="center">Full Stack Web Developer (<b>Laravel</b> + <b>React</b>/<b>Vue</b>/<b>Jquery</b>)</h3>
+<hr/>
 
+<p align="center">I love Making Teaching People To Code and make Awesome stuffs With It. Through that i learned a lot in my life and i am now establishing myself as a <b>FullStack Web Developer</b> Specially i like <b>laravel</b> and <b>ReactJS</b> and Now Learning Vuejs too. Before That I worked With Machine Learning With <b>laravel</b>Python. I have also wroked With Nodejs and Express Js In One Of My MERN Stack Project. So I am a multi language Person you can say But I Really love Working in PHP Laravel and Reactjs as ia am now purely a Web Developer! Sometimes a Youtuber...</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaziadib&label=Profile%20views&color=0e75b6&style=flat" alt="gaziadib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaziadib" alt="gaziadib" /></a> </p>
