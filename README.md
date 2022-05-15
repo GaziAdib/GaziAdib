@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/media/FSWUv-NUcAUpZJ9?format=jpg&name=large" alt="gaziadib" />
+<img src="https://pbs.twimg.com/profile_banners/2443763582/1652657997/1500x500" style="margin: 2px auto;" alt="gaziadib" />
 <h1 align="center">Hi 👋, I'm <b>Gazi Monirul Islam (Adib)</b></h1>
 <h3 align="center">Full Stack Web Developer (<b>Laravel</b> + <b>React</b>/<b>Vue</b>/<b>Jquery</b>)</h3>
 <hr/>
