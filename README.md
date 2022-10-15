@@ -11,7 +11,9 @@ Scikit and Panda</b>. I have also worked With Nodejs and Express Js In One Of My
 
 <p align="left"> <a href="https://twitter.com/greatadib" target="blank"><img src="https://img.shields.io/twitter/follow/greatadib?logo=twitter&style=for-the-badge" alt="greatadib" /></a> </p>
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **RTK Query, TailwindCss**
+
+- 🔥 I’m Pretty Comforatble With MERN Stack also i know Laravel + React, Nodejs + React + Redux-Toolkit
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaziAdib](https://github.com/GaziAdib)
 
