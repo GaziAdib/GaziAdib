@@ -1,6 +1,6 @@
 <img src="https://pbs.twimg.com/profile_banners/2443763582/1652657997/1500x500" style="margin: 2px auto;" alt="gaziadib" />
 <h1 align="center">Hi 👋, I'm <b>Gazi Monirul Islam (Adib)</b></h1>
-<h2 align="center">Full Stack Web Developer (<b>Laravel</b> + <b>React</b>/<b>Vue</b>/<b>Jquery</b>)</h2>
+<h2 align="center">Full Stack Web Developer (<b>Laravel</b> + <b>NodeJs</b> + <b>React</b>/<b>Redux Toolkit</b>/<b>Jquery</b>)</h2>
 <hr/>
 
 <p align="justify">I love Making Teaching People To Code and make Awesome stuffs With It. Through that i learned a lot in my life and i am now establishing myself as a <b>FullStack Web Developer</b> Specially i like <b>laravel</b> and <b>ReactJS</b> and Now Learning Vuejs too. Before That I worked With Machine Learning With <b>Python 
