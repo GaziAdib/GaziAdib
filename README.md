@@ -1,6 +1,6 @@
 <img src="https://pbs.twimg.com/profile_banners/2443763582/1652657997/1500x500" style="margin: 2px auto;" alt="gaziadib" />
 <h1 align="center">Hi 👋, I'm <b>Gazi Monirul Islam (Adib)</b></h1>
-<h2 align="center">Full Stack Web Developer (<b>Laravel</b> + <b>NodeJs</b> + <b>React</b>/<b>Redux Toolkit</b>/<b>Jquery</b>)</h2>
+<h2 align="center">Full Stack Web & AI Engineer (Nextjs + <b>NodeJs</b> + <b>Gen AI</b> + <b>Flask & Fast API</b> + <b>Redux Tookit</b>)</h2>
 <hr/>
 
 <p align="justify">I love Making Teaching People To Code and make Awesome stuffs With It. Through that i learned a lot in my life and i am now establishing myself as a <b>FullStack Web Developer</b> Specially i like <b>laravel</b> and <b>ReactJS</b> and Now Learning Vuejs too. Before That I worked With Machine Learning With <b>Python 
@@ -11,15 +11,15 @@ Scikit and Panda</b>. I have also worked With Nodejs and Express Js In One Of My
 
 <p align="left"> <a href="https://twitter.com/greatadib" target="blank"><img src="https://img.shields.io/twitter/follow/greatadib?logo=twitter&style=for-the-badge" alt="greatadib" /></a> </p>
 
-- 🌱 I’m currently learning **RTK Query, TailwindCss**
+- 🌱 I’m currently learning **Generative AI, Rags, Agents**
 
-- 🔥 I’m Pretty Comforatble With MERN Stack also i know Laravel + React, Nodejs + React + Redux-Toolkit
+- 🔥 I’m Pretty Comforatble With MERN With Nextjs also i have knowledge on Fast API, Flask & AI based Applications (ML, Computer Vision & Gen AI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/GaziAdib](https://github.com/GaziAdib)
 
 - 📫 How to reach me **greatadib82@gmail.com**
 
-- ⚡ Fun fact **I Like To Teach and Make Videos On Tech Stuffs**
+- ⚡ Fun fact **I Like To Build, Teach and Make Videos On Tech Stuffs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
