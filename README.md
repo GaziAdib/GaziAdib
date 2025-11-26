@@ -4,7 +4,7 @@
 <h2 align="center">Full Stack Web & AI Engineer & Data Analyst </h2>
 
 <h3 align="center">
-  <b>Data Analyst (Power BI, Tableu, Excel) </b> <b>Next.js</b> + <b>Node.js</b> + <b>Computer Vision</b> + <b>Computer Vision</b> + <b>Gen AI</b> + <b>Flask</b> + <b>FastAPI</b> + <b>Django 5</b>
+  <b>Data Analyst (Power BI, Tableu, Excel, SQL) </b> + Web & AI Dev <b>Next.js</b> + <b>Laravel 12</b>  + <b>Node.js</b> + <b>Computer Vision</b> + <b>Computer Vision</b> + <b>Gen AI</b> + <b>Flask</b> + <b>FastAPI</b> + <b>Django 5</b>
 </h3> 
 
 <hr/>
