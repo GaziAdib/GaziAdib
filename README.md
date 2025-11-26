@@ -1,17 +1,17 @@
-<img src="https://pbs.twimg.com/profile_banners/2443763582/1652657997/1500x500" alt="gaziadib" style="margin: 2px auto;" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQEMZJPzbwssjQ/profile-displaybackgroundimage-shrink_350_1400/B56Zcb4B8mHUAY-/0/1748519368937?e=1766016000&v=beta&t=veCzZEY69my1Y50SsT-tdhHY00zSOIir10pmE-ucAqg" alt="gaziadib" style="margin: 2px auto;" />
 
 <h1 align="center">Hi 👋, I'm <b>Gazi Monirul Islam (Adib)</b></h1>
-<h2 align="center">Full Stack Web & AI Engineer</h2>
+<h2 align="center">Full Stack Web & AI Engineer & Data Analyst </h2>
 
 <h3 align="center">
-  <b>Next.js</b> + <b>Node.js</b> + <b>Gen AI</b> + <b>Flask</b> + <b>FastAPI</b> + <b>Redux Toolkit</b>
-</h3>
+  <b>Data Analyst (Power BI, Tableu, Excel) </b> <b>Next.js</b> + <b>Node.js</b> + <b>Computer Vision</b> + <b>Computer Vision</b> + <b>Gen AI</b> + <b>Flask</b> + <b>FastAPI</b> + <b>Django 5</b>
+</h3> 
 
 <hr/>
 
 <p align="justify">
-I love teaching people to code and building awesome stuff with it. Through that journey, I’ve learned a lot in life and am now establishing myself as a <b>Full Stack Web Developer</b>. I have a special love for <b>Laravel</b> and <b>ReactJS</b>, and currently, I’m learning <b>Vue.js</b> as well. I also explored <b>Machine Learning</b> with <b>Scikit-learn</b> and <b>Pandas</b>. I’ve built MERN stack projects using Node.js and Express.js and enjoy working across multiple technologies — but my heart stays with Laravel and ReactJS! Sometimes, I’m also a YouTuber 🎥
-</p>
+  **Who Am I ?**
+Hey, I’m Gazi Monirul Islam (Adib). I graduated from Daffodil International University from the Department of CSE in 2019. Currently I am working and building web apps for my client and thus enriching my portfolio using Next.js, React, FastAPI, Django, Laravel. I love mixing AI/ML features into real-world projects things like object detection, Computer vision-based Disease Detection projects, and NLP based projects like sentiment analysis, Resume Parser, and LLM based Chatbots with RAG using Langchain & Langgraph. I enjoy creating clean, scalable systems, whether it’s a LMS (learning platform) field or an e-commerce field or any management-based system, or AI-powered apps. When I’m not coding, I’m probably playing cricket, building tutorials for global audience on my personal YouTube channel called GreatAdib (11.4k+ subs), or learning something new to level up my skills.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gaziadib&label=Profile%20views&color=0e75b6&style=flat" alt="gaziadib" />
@@ -29,11 +29,13 @@ I love teaching people to code and building awesome stuff with it. Through that 
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me & My Website & Social Media links:
 
-- 🌱 I’m currently learning **Generative AI, RAGs, and AI Agents**  
-- 🔥 Comfortable with **MERN**, **Next.js**, **FastAPI**, **Flask**, and **AI/ML applications**  
-- 👨‍💻 All of my projects: [https://github.com/GaziAdib](https://github.com/GaziAdib)  
+- 🌱 I’m currently learning **Generative AI, RAGs, and AI Agents (learning)**  
+- 🔥 Comfortable with **MERN**, **Next.js**, **FastAPI**, **Django** **Laravel** **Flask**, and **AI/ML applications**  
+- 👨‍💻 All of my projects: [https://github.com/GaziAdib](https://github.com/GaziAdib)
+- 🌐 Website: [https://gazi-adib-portfolio-website.vercel.app/]
+- 🌐 LinkedIn: [https://www.linkedin.com/in/gazi-adib-master/] 
 - 📫 Reach me: **greatadib82@gmail.com**  
 - ⚡ Fun fact: I love building, teaching, and making tech content 🎥  
 
@@ -63,13 +65,14 @@ I love teaching people to code and building awesome stuff with it. Through that 
 
 ## 🛠️ Technical Skills
 
-| Category        | Technologies |
-|----------------|--------------|
-| **Frontend**    | React, Next.js, Redux, Tailwind CSS |
-| **Backend**     | Node.js, Django, FastAPI, Flask, REST APIs |
-| **Databases**   | MongoDB, PostgreSQL, SQL, Prisma ORM, Redis |
-| **AI / ML**     | Scikit-learn, TensorFlow, Computer Vision, Gen AI (LangChain) |
-| **Tools**       | GitHub, Firebase, Vercel, Netlify, AWS (Basics) |
+| Category          | Technologies |
+|-------------------|--------------|
+| **Data Analyst**  | Power BI, Tableau, Excel, Python, SQL, Pandas, Matplotlib |
+| **Frontend**      | React, Next.js, Redux, Tailwind CSS |
+| **Backend**       | Node.js, Django 5, Laravel 12, FastAPI, Flask, REST APIs, Robust Database Design |
+| **Databases**     | MongoDB, PostgreSQL, SQL, Prisma ORM, Redis |
+| **AI / ML**       | Scikit-learn, TensorFlow, Computer Vision & YOLO, Gen AI (LangChain & Langgraph) |
+| **Tools**         | GitHub, Firebase, Vercel, Netlify, AWS (Basics) |
 
 ---
 
