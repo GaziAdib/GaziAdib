@@ -47,9 +47,14 @@ Hey, I’m Gazi Monirul Islam (Adib). I graduated from Daffodil International Un
   <a href="https://twitter.com/greatadib" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="greatadib" height="30" width="40" />
   </a>
+  <a href="https://medium.com/@greatadib82" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/gazi-adib-master/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gazi adib" height="30" width="40" />
   </a>
+  
   <a href="https://www.facebook.com/profile.php?id=100008158750938" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gazi adib" height="30" width="40" />
   </a>
