@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/v2/D5616AQE_EHyEgnjxoQ/profile-displaybackgroundimage-shrink_350_1400/B56ZrBTGcaJ8AY-/0/1764179602058?e=1766016000&v=beta&t=OSIClqyINDzhx2_L5gzOw4qaJCwemvVpqrfocI44vQ0](https://media.licdn.com/dms/image/v2/D5616AQFNgPQbQHkMuQ/profile-displaybackgroundimage-shrink_350_1400/B56ZrCYlEDJUAY-/0/1764197815142?e=1766016000&v=beta&t=84cnFBaVY-D3rJpzTcj6ZJo2KaJYnudQ_5Pv7uqWTWU)" alt="gaziadib" style="margin: 2px auto;" />
+<img src="https://pbs.twimg.com/media/G6svOPEa0AEh_rG?format=jpg&name=medium" alt="gaziadib" style="margin: 2px auto;" />
 
 <h1 align="center">Hi 👋, I'm <b>Gazi Monirul Islam (Adib)</b></h1>
 <h2 align="center">Full Stack Web & AI Engineer & Data Analyst </h2>
